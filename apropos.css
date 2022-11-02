@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+h1 {
+    font-weight: 600;
+    font-size: 56px;
+    line-height: 84px;
+    display: flex;
+    align-items: center;
+    letter-spacing: -0.03em;
+    color: #371D1B;
+    margin-bottom: 58px;
+}
+
+.hautdepage {
+    width: 100%;
+    height: 700px;
+    padding: 150px 120px 170px 120px;
+    font-family: 'Quicksand';
+    color: #371D1B;
+}
+  
+.texteavecimage {
+      display: flex;
+}
+
+.h1text {
+      display: block;
+}
+
+.textpropos {
+    font-weight: 500;
+    line-height: 40px;
+    letter-spacing: -0.05em;
+    font-size: 24px;
+    width: 90%;
+    margin-right: 30px;
+}
+
+.logopropos {
+    float: right;
+    width: 390px;
+    height: 437px;
+}
+
+.pbottom {
+    margin-bottom: 170px;
+}
+
+.here {
+    color: #371D1B;
+}
