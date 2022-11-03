@@ -136,3 +136,28 @@ article {
     overflow: hidden;
     transition:transform .4s;
 }
+
+.articlek {
+    padding: 50px 120px 0px 120px;
+}
+
+.flex {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.imgart {
+    height: 800px;
+    margin-bottom: 50px;
+}
+
+.title {
+    font-size: 40px;
+    color: #371D1B;
+}
+
+.croissantimg {
+    height: 500px;
+    width: 500px;
+}
